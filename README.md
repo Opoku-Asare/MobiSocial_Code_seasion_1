@@ -1,5 +1,3 @@
-# MobiSocial_HW1
-
 #MobiSocial Code Season 1
 
 ##Overview
