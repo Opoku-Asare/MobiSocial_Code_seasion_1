@@ -12,4 +12,5 @@ This exercise goal is for you to familiarise yourself with Android Studio and do
 
 ##Highlights
 * Vibrator Service
-* BroadCasts
+* Button Events
+
